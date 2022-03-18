@@ -15,7 +15,7 @@
     "fela-plugin-rtl": "^10.6.1",
     "fela-utils": "^10.6.1",
     "inline-style-expand-shorthand": "^1.2.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.20",
     "react-fela": "^10.6.1",
     "stylis": "^3.5.4"
   },
