@@ -26,7 +26,7 @@
     "@fluentui/scripts": "^1.0.0",
     "@fluentui/set-version": "^8.0.0-beta.1",
     "flamegrill": "0.2.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.20",
     "querystring": "^0.2.0",
     "react": "16.8.6",
     "react-dom": "16.8.6",
