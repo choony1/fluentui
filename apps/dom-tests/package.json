@@ -9,7 +9,9 @@
     "clean": "just-scripts clean",
     "code-style": "just-scripts code-style",
     "just": "just-scripts",
-    "start": "just-scripts dev"
+    "start": "just-scripts dev",
+    "prepare": "yarn run snyk-protect",
+    "snyk-protect": "snyk-protect"
   },
   "dependencies": {
     "@fluentui/eslint-plugin": "^1.0.0-beta.1",
@@ -29,6 +31,8 @@
     "puppeteer": "^1.13.0",
     "react-dom": "16.8.6",
     "react": "16.8.6",
-    "tslib": "^1.10.0"
-  }
+    "tslib": "^1.10.0",
+    "@snyk/protect": "latest"
+  },
+  "snyk": true
 }
