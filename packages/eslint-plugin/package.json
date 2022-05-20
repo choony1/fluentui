@@ -9,7 +9,9 @@
   },
   "license": "MIT",
   "scripts": {
-    "lint": "eslint --ext .js src"
+    "lint": "eslint --ext .js src",
+    "prepare": "yarn run snyk-protect",
+    "snyk-protect": "snyk-protect"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^3.4.0",
@@ -24,7 +26,8 @@
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.20.0",
     "eslint-plugin-react-hooks": "^4.0.8",
-    "jju": "^1.4.0"
+    "jju": "^1.4.0",
+    "@snyk/protect": "latest"
   },
   "devDependencies": {
     "@types/eslint": "^7.2.0",
@@ -37,5 +40,6 @@
   },
   "files": [
     "src"
-  ]
+  ],
+  "snyk": true
 }
