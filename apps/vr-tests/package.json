@@ -42,7 +42,7 @@
     "css-loader": "^5.0.1",
     "csstype": "^2.6.7",
     "file-loader": "^6.2.0",
-    "postcss-loader": "^4.1.0",
+    "postcss-loader": "^7.1.0",
     "raw-loader": "^4.0.2",
     "react-dom": "16.8.6",
     "react-app-polyfill": "~1.0.1",
