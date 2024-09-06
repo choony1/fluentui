@@ -11,12 +11,12 @@
     "fela": "^10.6.1",
     "fela-plugin-embedded": "^10.6.1",
     "fela-plugin-fallback-value": "^10.6.1",
-    "fela-plugin-placeholder-prefixer": "^10.6.1",
+    "fela-plugin-placeholder-prefixer": "^11.4.0",
     "fela-plugin-rtl": "^10.6.1",
     "fela-utils": "^10.6.1",
     "inline-style-expand-shorthand": "^1.2.0",
     "lodash": "^4.17.15",
-    "react-fela": "^10.6.1",
+    "react-fela": "^12.1.0",
     "stylis": "^3.5.4"
   },
   "devDependencies": {
