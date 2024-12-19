@@ -19,6 +19,6 @@
     "@fluentui/scripts": "^1.0.0",
     "parallel-webpack": "^2.6.0",
     "webpack-bundle-analyzer": "^4.4.0",
-    "terser-webpack-plugin": "^5.1.1"
+    "terser-webpack-plugin": "^5.3.11"
   }
 }
