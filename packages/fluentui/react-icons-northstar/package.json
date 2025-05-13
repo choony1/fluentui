@@ -4,7 +4,7 @@
   "version": "0.52.0",
   "bugs": "https://github.com/microsoft/fluentui/issues",
   "dependencies": {
-    "@babel/runtime": "^7.10.4",
+    "@babel/runtime": "^7.26.10",
     "@fluentui/accessibility": "^0.52.0",
     "@fluentui/react-bindings": "^0.52.0",
     "@fluentui/styles": "^0.52.0",
