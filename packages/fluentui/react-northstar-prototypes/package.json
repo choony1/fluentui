@@ -20,7 +20,7 @@
     "csstype": "^2.6.7",
     "faker": "^4.1.0",
     "formik": "2.2.6",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.23",
     "moment": "^2.18.1",
     "react": "16.8.6",
     "react-custom-scrollbars": "^4.2.1",
