@@ -18,7 +18,7 @@
     "@quid/stylis-plugin-focus-visible": "^4.0.0",
     "@uifabric/utilities": "^7.32.3",
     "classnames": "^2.2.6",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.23",
     "prop-types": "^15.7.2",
     "react-is": "^16.6.3",
     "stylis": "^3.5.4",
